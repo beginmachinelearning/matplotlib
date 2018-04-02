@@ -4,6 +4,6 @@ plt.scatter([0.3, 3.8, 1.2, 2.5], [11, 25, 9, 26], color='darkgreen', marker='^'
 
 # Add a legend
 plt.legend(['Line Graph', 'Scatter Plot'])
-plt.xlim(0.5, 4.5)
+plt.xlim(0.5, 3.5)
 plt.show()
 
